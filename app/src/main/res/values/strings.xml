@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalMovieProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_comedy">Comedy</string>
+    <string name="action_action">Action</string>
+    <string name="action_romance">Romance</string>
+    <string name="action_horror">Horror</string>
+</resources>

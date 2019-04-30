@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="css.edu.finalmovieproject.MainActivity">
+    <item
+        android:id="@+id/action_romance"
+        android:orderInCategory="100"
+        android:title="@string/action_romance"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_comedy"
+        android:orderInCategory="101"
+        android:title="@string/action_comedy" />
+    <item
+        android:id="@+id/action_action"
+        android:orderInCategory="102"
+        android:title="@string/action_action"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_horror"
+        android:orderInCategory="103"
+        android:title="@string/action_horror" />
+</menu>
